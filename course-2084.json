@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-stal-ink",
-  "commit": "c2d917f4ee7e8790ee9b50197a15b3590da9932d",
-  "score": 97,
+  "commit": "4cdc063394617c4855c937ee14756e47457e0d11",
+  "score": 100,
   "totalScore": 110,
   "exercises": [
     {
@@ -569,23 +569,23 @@
     {
       "name": "threads1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "threads3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "macros1",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "stal-ink",
-  "runId": "36686745481",
+  "runId": "36840671967",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
